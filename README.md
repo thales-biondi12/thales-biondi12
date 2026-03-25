@@ -15,7 +15,7 @@ Sou desenvolvedor apaixonado por **tecnologia, lógica de programação e desenv
 
 ## Habilidades
 
-- **Linguagens de programação:** C, C#, PHP, HTML, CSS, Portugol.
+- **Linguagens de programação:** C, C#, PHP, HTML, CSS.
 - **Conceitos:** POO, algoritmos, estruturas de repetição, estruturas condicionais, manipulação de dados.
 - **Ferramentas:** VSCode, IntelliJ, Git/GitHub.
 - **Outras competências:** Criação de jogos simples, projetos educacionais, scripts automatizados e prototipagem rápida.
