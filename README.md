@@ -26,7 +26,6 @@ Sou desenvolvedor apaixonado por **tecnologia, lógica de programação e desenv
 
 - 📧 Email: [biodinho20@gmail.com](mailto:biodinho20@gmail.com)  
 - 📱 WhatsApp: +55 12 98813-9975  
-- 🌐 GitHub: [github.com/thales-biondi12](https://github.com/thales-biondi12)  
 - 🔗 LinkedIn: [linkedin.com/in/thales-andrade-biondi-84354335b](https://www.linkedin.com/in/thales-andrade-biondi-84354335b/)
 
 ---
