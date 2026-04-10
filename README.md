@@ -33,4 +33,4 @@ Sou desenvolvedor apaixonado por **tecnologia, lógica de programação e desenv
 > 💬 Estou sempre aberto a colaborações, novos projetos e desafios que me permitam crescer como desenvolvedor e resolver problemas de forma criativa.
 
 ## Most Used Languages
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Thales-biondi12&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-biondi12&layout=compact&theme=vision-friendly-dark)
+![Sua Estatística](https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-biondi12&layout=compact&theme=vision-friendly-dark)
